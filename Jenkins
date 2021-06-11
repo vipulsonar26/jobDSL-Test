@@ -1,4 +1,4 @@
-job('demo') {
+job('RF-Test-Payments/demo') {
     steps {
         shell('echo Hello World!')
     }
